@@ -1,3 +1,8 @@
+/*Program to print the bits
+output: Enter the number:10
+00000000 00000000 00000000 00001010
+*/
+
 #include<stdio.h>
 
 int main()
