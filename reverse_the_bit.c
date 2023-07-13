@@ -1,3 +1,10 @@
+/* Program to reverse the bits
+Output:
+Enter the no:10
+00000000 00000000 00000000 00001010
+ 01010000 00000000 00000000 00000000
+*/
+
 #include<stdio.h>
 
 int main()
