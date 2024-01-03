@@ -1,3 +1,8 @@
+/* 
+	C program to count the number of bits/how many ones SET bits are there in given number
+Enter the number:15
+The number of SET bits are 4
+	*/
 #include<stdio.h>
 int main()
 {
