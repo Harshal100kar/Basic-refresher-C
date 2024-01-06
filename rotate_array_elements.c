@@ -2,7 +2,7 @@
  * Enter the size of array: 5
 Enter the elements of array: 1 2 3 4 5
 Enter the number of positions to rotate: 2
-Rotated array is: 4 5 1 2 3
+Rotated array is: 3 4 5 1 2
 */
 #include <stdio.h>
 
